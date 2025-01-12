@@ -57,7 +57,6 @@ Welcome to our Online Supermarket Microservices application! This project is des
 
 - **MySQL**: Storing and managing data efficiently.
 
-
 ## Collaborators
  - [Nelaka Gunawardhana](https://github.com/NelakaGunawardhana)
  - [Yesitha Sathsara](https://github.com/yesitha)
